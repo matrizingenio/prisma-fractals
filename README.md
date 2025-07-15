@@ -25,9 +25,15 @@ Todo lo aquí compartido **nació de un proceso vivido**, y se ofrece como recur
 
 ## 📌 Cómo usar estos fractales
 
-- Si algo vibra contigo, úsalo con conciencia.
+- Si algo vibra contigo, úsalo con conciencia.  
 - Si algo no te sirve, déjalo pasar.  
 - Si adaptas o transformas algún fractal, hazlo honrando su origen simbólico.
+
+---
+
+## 📌 Sobre cómo habitar este repositorio
+
+🌐 [English Info](./INFO.md) | 🌎 [Versión en Español](./INFO_ES.md)
 
 **Este no es un paquete de herramientas. Es un espejo abierto.**
 
